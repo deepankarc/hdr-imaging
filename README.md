@@ -31,6 +31,6 @@ COMPUTE_CRF (bool) = flag to compute CRF using supplied image.
 
 ### References
 
-[1] Paul E. Debevec Jitendra Malik - Recovering High Dynamic Range Radiance Maps from Photographs (http://www.pauldebevec.com/Research/HDR/debevec-siggraph97.pdf)
+[1] [Paul E. Debevec Jitendra Malik - Recovering High Dynamic Range Radiance Maps from Photographs](http://www.pauldebevec.com/Research/HDR/debevec-siggraph97.pdf)
 
-[2] Reinhard, Erik and Stark, Michael and Shirley, Peter and Ferwerda, James - Photographic Tone Reproduction for Digital Images (http://www.cmap.polytechnique.fr/~peyre/cours/x2005signal/hdr_photographic.pdf)
+[2] [Reinhard, Erik and Stark, Michael and Shirley, Peter and Ferwerda, James - Photographic Tone Reproduction for Digital Images](http://www.cmap.polytechnique.fr/~peyre/cours/x2005signal/hdr_photographic.pdf)
