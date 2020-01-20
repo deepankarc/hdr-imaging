@@ -29,7 +29,7 @@ COMPUTE_CRF (bool) = flag to compute CRF using supplied image.
 <pre>
                   Fig.2 - HDR Images (Left - Global Tonemapping, Right - Local Tonemapping) </pre>
 
-References
+### References
 
 [1] Paul E. Debevec Jitendra Malik - Recovering High Dynamic Range Radiance Maps from Photographs (http://www.pauldebevec.com/Research/HDR/debevec-siggraph97.pdf)
 
