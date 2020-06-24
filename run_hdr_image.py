@@ -3,6 +3,7 @@ import os, glob, sys
 import cv2
 import matplotlib.pyplot as mp_plt
 from load_images import load_images
+from hdr_debevec import hdr_debevec
 from compute_irradiance import compute_irradiance
 from tonemap import reinhard_tonemap, plot_and_save, local_tonemap
 
